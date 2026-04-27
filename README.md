@@ -4,7 +4,7 @@ This project is a **playable ad prototype** built using **PixiJS**, designed to 
 
 ---
 
-## ✨ Overview
+## Overview
 
 The user can drag and drop clothing items onto a character, progressing through multiple stages:
 
@@ -17,26 +17,26 @@ Based on the choices, the character reacts with different facial expressions, an
 
 ---
 
-## 🎥 Preview
+## Preview
 
-### 😊 Happy Reaction
+### Happy Reaction
 ![Happy Reaction](./screenshots/reaction_happy.gif)
 
-### 😞 Sad Reaction
+### Sad Reaction
 ![Sad Reaction](./screenshots/reaction_sad.gif)
 
 ### 🔍 Zoom Transition
 ![Zoom](./screenshots/zoomTo.gif)
 
-### ✅ Good Ending
+### Good Ending
 ![Good Ending](./screenshots/ending_good.gif)
 
-### ❌ Bad Ending
+### Bad Ending
 ![Bad Ending](./screenshots/ending_bad.gif)
 
 ---
 
-## 🧠 Assets & Design
+## Assets & Design
 
 All visual assets used in this project are **AI-generated**.
 
@@ -47,7 +47,7 @@ After generation, assets were:
 
 ---
 
-## 🎯 Game Logic
+## Game Logic
 
 To achieve a **successful (good) outcome**, the user must select the correct item in **every stage**:
 
@@ -60,7 +60,7 @@ If any incorrect choice is made, the final result will be a **bad outcome**.
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Drag & drop outfit selection  
 - Layer-based character customization  
@@ -70,7 +70,7 @@ If any incorrect choice is made, the final result will be a **bad outcome**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **PixiJS** – rendering & interaction  
 - **JavaScript (ES Modules)**  
