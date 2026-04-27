@@ -78,8 +78,7 @@ If any incorrect choice is made, the final result will be a **bad outcome**.
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Run the Project
 
 ```bash
-npm install
-npm run dev
+npx vite
